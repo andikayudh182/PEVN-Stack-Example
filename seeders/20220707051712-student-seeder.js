@@ -6,8 +6,8 @@ module.exports = {
     var student = [];
     for (let i = 1; i <11; i++) {
       student.push({
-        classroom_id:3,
-        student_name:`studentclass3new${i}`,
+        
+        student_name:`studentnew${i}`,
         createdAt: new Date(),
         updatedAt: new Date()
   
